@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm PshsayhiXD
 
-<!--
-**PshsayhiXD/PshsayhiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- JavaScript main.
+- Bot & utility tools builder.
+- Working on drednot.io related projects.
+- Keep making random cool shits.
+- Dumb as fuck.
+- Braidead.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- GitHub: https://github.com/PshsayhiXD
+- Discord: pshsayhi4117
+- Discord Server: https://discord.gg/yz7zsWBzQU
