@@ -6,7 +6,7 @@
 - Working on drednot.io related projects.
 - Keep making random cool shits.
 - Dumb as fuck.
-- Braidead.
+- Braindead.
 
 ## Contact
 - GitHub: https://github.com/PshsayhiXD
